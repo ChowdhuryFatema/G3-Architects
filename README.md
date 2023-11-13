@@ -4,4 +4,5 @@ Author - Fatema Chowdhury
 https://chowdhuryfatema.github.io/G3-Architects/
 ## Technologies
 -Html5 </br>
--Row CSS
+-Row CSS </br>
+-Responsive
